@@ -1,0 +1,9 @@
+project_name      = "myproject"
+naming_suffix     = "dev-ch"
+location          = "switzerlandnorth"
+github_repository = "myorg/azure-bootstrap-myproject"
+
+tags = {
+  managed_by  = "terraform"
+  environment = "dev"
+}
